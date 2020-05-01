@@ -1,6 +1,6 @@
 ## Recognition_Module
 
-### To use these install requirements
+Speech Recognition is an important feature in several applications used such as home automation, artificial intelligence, etc. To use these install required libraries or modules.
 
 ##### Convert Text to Speech in Python using win32com.client:
 
